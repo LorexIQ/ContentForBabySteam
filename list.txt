@@ -5,7 +5,6 @@ Beertruck
 DieInTheDungeon
 Ghost
 HerosHour
-Klopodrom
 MrHoppsPlayhouse
 OuterWonders
 Paleon
