@@ -11,3 +11,8 @@ Paleon
 SigmaWorld
 StarSky
 Tetris
+OuterWonders
+Paleon
+SigmaWorld
+StarSky
+Tetris
