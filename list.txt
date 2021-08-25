@@ -11,9 +11,3 @@ Paleon
 SigmaWorld
 StarSky
 Tetris
-MrHoppsPlayhouse
-OuterWonders
-Paleon
-SigmaWorld
-StarSky
-Tetris
